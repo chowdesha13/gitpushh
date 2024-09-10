@@ -15,6 +15,7 @@ outputs:
 - name: downloaded-product
 - name: downloaded-stemcell
 - name: assign-stemcell-config
+//
 
 caches:
 - path: downloaded-files
